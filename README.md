@@ -2,7 +2,7 @@ Tecnologías:
 Backend	Java 21, Spring Boot 3.x (Web, Data JPA, Actuator), Hibernate, Lombok
 Base de Datos	MySQL 8 (Dockerizado)
 Infraestructura	Docker, Docker Compose
-Herramientas	Maven, Git, Postman/Insomnia
+Herramientas	Maven, Git, Postman
 
 ✅ CRUD Completo de libros (Crear, Leer, Actualizar, Eliminar)
 ✅ Validación de datos con Spring Validation (@NotBlank, @Positive)
