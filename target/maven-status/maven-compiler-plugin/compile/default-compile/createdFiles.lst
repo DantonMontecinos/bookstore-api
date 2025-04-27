@@ -1,0 +1,5 @@
+com\username\bookstore_api\repository\LibroRepository.class
+com\username\bookstore_api\controller\LibroController.class
+com\username\bookstore_api\model\Libro.class
+com\username\bookstore_api\BookstoreApiApplication.class
+com\username\bookstore_api\exceptions\GlobalExceptionHandler.class
